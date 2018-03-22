@@ -1,8 +1,8 @@
 ## Edgar Adventures Redesign
 
-Proceso de rediseño de la página web Edgar Adventures, agencia de viajes lider en el sur del Perú. 
+Propuesta de rediseño de la página web Edgar Adventures, agencia de viajes lider en el sur del Perú. 
 
-![image](assets/images/edgar.PNG)
+![image](assets/images/vista01.PNG)
 
 
 ## Desarrollado para
@@ -10,12 +10,19 @@ Proceso de rediseño de la página web Edgar Adventures, agencia de viajes lider
 
 
 ### **OBJETIVO**:
-# Optimizando el proceso de compra de paquetes turisticos
+# Optimizando el proceso de compra y reserva de paquetes turisticos
 
-### 1.- ETAPA DE RESEARCH
+### 1.- ETAPA DE DESCUBRIMIENTO
 
-Understand Why?
+### 1.1 Entrevistas a Usuarios
 
-why redesign, and why now?
+Teniendo en cuenta el siguiente gráfico: 
+
+![pie_chart](assets/images/customers.png)
+
+Podemos observar que el 71% de clientes de la agencia son extranjeros de habla inglesa (Europa,EE.UU,etc.)
+
+Es así que en busca de nuestro target, realizamos varias entrevistas a extranjeros preguntandole sobre sus preferencias a la hora de comprar un paquete turistico.
+
 
 ![interview](assets/images/interviews.jpg)
