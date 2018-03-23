@@ -81,5 +81,12 @@ Definimos las características de nuestro MVP:
 * Realizar la cotización de los tours dependiendo de la cantidad de personas elegidas.
 * Realizar la reserva de los tours.
 
-
 ***
+### 3.- PROTOTIPADO
+
+1th Version: 
+https://marvelapp.com/project/2823843/
+
+2th Version(mejorado): https://marvelapp.com/project/2829774/
+
+DEMO: https://marvelapp.com/6496hcd/screen/40083883
