@@ -47,10 +47,24 @@ Proceso actual:
 
 ### 2.1 User Persona
 
-![persona](assets/images/user-persona.PNG)
+Creamos nuestro arquetipo de usuario, basandonos en las observaciones de nuestro research.
 
-### 2.2 Customer Journey Map 
+![persona](assets/images/persona.PNG)
+
+### 2.2 Storytelling 
+
+ Creamos una historia sobre nuestro user persona, así podemos proyectar una visión más significativa del proyecto.
+
+ 
+
+![story](assets/images/storytell.png)
+
+### 2.3 Customer Journey Map 
 
 Se realizo este proceso con la finalidad de reforzar los touchpoints de máxima propuesta de valor, es decir, los puntos de nuestro flujo donde pondremos el máximo énfasis.
 
 ![journey](assets/images/journey_map.png)
+
+### 2.4 Feature List
+
+#### Priorización:
