@@ -48,3 +48,9 @@ Proceso actual:
 ### 2.1 User Persona
 
 ![persona](assets/images/user-persona.PNG)
+
+### 2.2 Customer Journey Map 
+
+Se realizo este proceso con la finalidad de reforzar los touchpoints de máxima propuesta de valor, es decir, los puntos de nuestro flujo donde pondremos el máximo énfasis.
+
+![journey](assets/images/journey_map.png)
