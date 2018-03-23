@@ -1,4 +1,4 @@
-## Edgar Adventures Redesign
+## EDGAR ADVENTURES REDESIGN
 
 Propuesta de rediseño de la página web Edgar Adventures, agencia de viajes lider en el sur del Perú. 
 
@@ -22,7 +22,7 @@ Teniendo en cuenta el siguiente gráfico:
 
 Podemos observar que el 71% de clientes de la agencia son extranjeros de habla inglesa (Europa,EE.UU,etc.)
 
-Es así que en busca de nuestro target, realizamos varias entrevistas a extranjeros preguntandole sobre sus preferencias a la hora de comprar un paquete turistico.
+Es así que en busca de nuestro target, realizamos varias entrevistas a extranjeros preguntándoleS sobre sus preferencias a la hora de comprar un paquete turistico.
 
 ![interview](assets/images/interviews.jpg)
 
@@ -38,9 +38,11 @@ Como bien sabemos, este es un proceso de rediseño, por eso consideramos como  p
 Es así que pudimos obtener información de su proceso de reservas y cotizaciones.
 
 Ejemplo:
+
 ![image](assets/images/example.PNG)
 
 Proceso actual:
+
 ![diagram](assets/images/diagram.png)
 
 ### 2.- ETAPA DE IDEACIÓN
@@ -61,10 +63,23 @@ Creamos nuestro arquetipo de usuario, basandonos en las observaciones de nuestro
 
 ### 2.3 Customer Journey Map 
 
-Se realizo este proceso con la finalidad de reforzar los touchpoints de máxima propuesta de valor, es decir, los puntos de nuestro flujo donde pondremos el máximo énfasis.
+Se realizó este proceso con la finalidad de reforzar los touchpoints de máxima propuesta de valor, es decir, los puntos de nuestro flujo donde pondremos el máximo énfasis.
 
 ![journey](assets/images/journey_map.png)
 
 ### 2.4 Feature List
 
 #### Priorización:
+
+![tabla_features](assets/images/features.png)
+
+
+Definimos las características de nuestro MVP:
+
+* Navegar entre las categorías de los tours fácilmente.
+* Seleccionar un tour, y se despliegue un submenú  con: *tour description*, *inclusions*, *recomendations*.
+* Realizar la cotización de los tours dependiendo de la cantidad de personas elegidas.
+* Realizar la reserva de los tours.
+
+
+***
