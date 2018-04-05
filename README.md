@@ -2,7 +2,7 @@
 
 Propuesta de rediseño de la página web Edgar Adventures, agencia de viajes lider en el sur del Perú. 
 
-![image](https://github.com/SteffAhv/travel_agency/blob/master/assets/images/vista01.PNG?raw=true)
+![image](https://raw.githubusercontent.com/SteffAhv/travel_agency/master/assets/images/vista01.PNG)
 
 
 ## Desarrollado para
