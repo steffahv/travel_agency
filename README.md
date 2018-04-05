@@ -1,11 +1,11 @@
-## EDGAR ADVENTURES REDESIGN
+# EDGAR ADVENTURES REDESIGN
 
 Propuesta de rediseño de la página web Edgar Adventures, agencia de viajes lider en el sur del Perú. 
 
 ![image](https://github.com/SteffAhv/travel_agency/blob/master/assets/images/vista01.PNG?raw=true)
 
 
-**Desarrollado para**
+## Desarrollado para
 ***
 [Laboratoria](www.laboratoria.la)
 
