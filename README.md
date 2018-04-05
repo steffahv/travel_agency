@@ -2,15 +2,16 @@
 
 Propuesta de rediseño de la página web Edgar Adventures, agencia de viajes lider en el sur del Perú. 
 
-![image](assets/images/vista01.PNG)
+![image](https://github.com/SteffAhv/travel_agency/blob/master/assets/images/vista01.PNG?raw=true)
 
 
-## Desarrollado para
-![Laboratoria](assets/images/logo_laboratoria.png)
+**Desarrollado para**
+***
+[Laboratoria](www.laboratoria.la)
 
 
 ### **OBJETIVO**:
-# Optimizando el proceso de compra y reserva de paquetes turisticos
+# Optimizars el proceso de compra y reserva de paquetes turisticos
 
 ### 1.- ETAPA DE DESCUBRIMIENTO
 
