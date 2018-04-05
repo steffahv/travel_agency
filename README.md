@@ -11,7 +11,7 @@ Propuesta de rediseño de la página web Edgar Adventures, agencia de viajes lid
 
 
 ### **OBJETIVO**:
-# Optimizar el proceso de compra y reserva de paquetes turisticos
+### Optimizar el proceso de compra y reserva de paquetes turisticos
 
 ### 1.- ETAPA DE DESCUBRIMIENTO
 
